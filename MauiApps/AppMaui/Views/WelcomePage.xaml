@@ -1,0 +1,15 @@
+<ContentPage x:Class="Views.WelcomePage"
+             Title="WelcomePage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome page, navigate to login, register, and stay guest"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button
+            Text="register"
+            ></Button>
+        <Button
+        Text="login"
+        ></Button>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,9 @@
+<ContentPage x:Class="Views.Discounts.SearchDiscountsPage"
+             Title="SearchDiscountsPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
